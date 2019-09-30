@@ -1,0 +1,3 @@
+print ("hello world")minoush I love you
+minoush I love youn\minoush I love you
+minoush I love you

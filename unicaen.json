@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "unicaen",
+  "private_key_id": "8121e904a8e44ecb279b9f750aa879398b13537e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDO731v0m4WNhwh\ndLPUGSCKy8OMq6OFZcL62ufxYeMQyXRPSYBnh0oOn82u7PBriWAQmwKUz/ehAZmC\n7/rt8eUZWsAUlZDZ9fn5tRy/lFSC1bpm6J9zm7VXjXT8pqwX1co+U1tAcCb6n3a4\nKuVZhHl3aBL6lEzT8r0fFyelmll1Be2pI2WvDjd6ygAwuaiI9sdoEbRHF3F85V5J\nJKeFO4trgvXAwqrlxEc1L3zx/H6XXBx/2e+6OfV3Wi0WOt2vfZfnMeYOqTVzLKFh\nw7V9WyCXwJSNSFzrlr28Uqt5KkH45gILusmTC0peZGiOU9tKRMbU7XMJwRfWauwR\n6k0rcLbjAgMBAAECggEAHa6zju0ftlbnnRLo0oUSKmaE87IRAArzN1lcCL8yO0+y\nO8c+wFrjEArzDWLWL46idW9OpPrZucIJe4MhuqzGYGcogyta/jCuvRcx+vbzUlsG\n5Ej8yi/tCJR1UeI0cCzN2DfLsIgFx1BFTrB0em0qoSqQAlpwVLyOTR3cpX/o0gSY\nJG6W1VMzzocDB78Y32z0Rm+pw0nrpVyvxBib7oJwn30Pr9JiY4xeQFlixWPfhBQW\nO4Q2iKaX6QTN/9WzlT0P1uQoUC21emVjw4REd9ka/Utl84/sqAxyJph2IurU7i0Q\n+to+p/ywqeBNgQ68U4M0GQzyO5sKlAOYUNDS2pMATQKBgQDopKRNNCbu1SWg75w6\nCPgfCmwGjkaAeoI9bUisSfU46BwPcsvTGRVv+8gakm4oLzE0/YU4/LTHu9/jttV+Td\nTQyNJ/dDGWcgOQvWJlVFqHInG+x2aYWWwFvYPio4KVFtoahEu08i52zwULODryGx\n2ALkcgDXdVx873Ri2L67dsobRwKBgQDjth1guwIMwZ1pn3jxiuf3q4w18NCkxxDJ\ngKkmppMZ25pyNxZAAcQS8HweXa/IHi/9BSFrfJud3AdFTQCFR/6pt/HFKqkgdSiJ\nhb+QKtAygvB5Sctmn8Frh88UkrC01Rw9OlQppyEeW5q3YjSWuVVoNs5mKVkKM0cU\nwH+vn5qdhQKBgBTdn3blNJC7QVK76vExmL9/+cxkumIPmtrTkG8TexENkGa6Txmx\n6EBQ/tOTSpoEEY/FJUvFLpmzehMz8O0AWh3W9dBo2N0FANDGQ2OqBgMH+B9uu3KX\n8iTk/nhnDEye8S6o9iIVS6oKMu+ep5EB5NCEgRrSBeeWuoObGRBLSTlFAoGASdn7\npy6fmJGGwwXUjMoXN40smSX0FSz2tdODiKSHmuBNM/PHxJSOCfJy3spVw1p/B9mN\nIDY2pjkBJqm1nIRgBJ1CzUZrubolnoyBN3mbMnajFUMos6zmZ0CRmcOFifCACx+K\nwkORCy58fDNeiO+s0nLL9/g7B4Lf78wK3WOvGp0CgYAhN4AKpjl0x02x5fV01nIf\nsIoEq5JY8f2hXI1eJUP1/WDqj6/IbIuRREYEZgQTfRVsojPW5K0ozNwuK32bjAHA\n1W3Zu8z6FkW/b5PkDeGcbUkNzvJAUW4Db0r5uNZWtI4DI3YcewqhiWiYXmLbWzZl\nNSu4u9FEwMeneLCq2OkYmg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "unicaen@unicaen.iam.gserviceaccount.com",
+  "client_id": "115037146865344054287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unicaen%40unicaen.iam.gserviceaccount.com"
+}
